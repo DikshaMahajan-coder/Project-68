@@ -1,2 +1,1 @@
-# Project-68
-E-ride Stage I
+# PRO-C68-Template
